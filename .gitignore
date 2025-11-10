@@ -1,0 +1,11 @@
+# Ignore compiled executables
+*.exe
+*.out
+*.o
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore build folders (common in C++)
+build/
+bin/
